@@ -2,4 +2,8 @@
 <uml:Model xmi:version="20131001" xmlns:xmi="http://www.omg.org/spec/XMI/20131001" xmlns:uml="http://www.eclipse.org/uml2/5.0.0/UML" xmi:id="_SPxBoIFsEeSqN5RMfRoYrA" name="t">
   <packagedElement xmi:type="uml:Class" xmi:id="_ZO1skIFsEeSqN5RMfRoYrA" name="c1"/>
   <packagedElement xmi:type="uml:Interface" xmi:id="_akQnYIFsEeSqN5RMfRoYrA" name="i1"/>
+  <packagedElement xmi:type="uml:Enumeration" xmi:id="_w8EsAIFuEeSqN5RMfRoYrA"/>
+  <packagedElement xmi:type="uml:Enumeration" xmi:id="_xm81AIFuEeSqN5RMfRoYrA">
+    <ownedLiteral xmi:id="_y3R0cIFuEeSqN5RMfRoYrA"/>
+  </packagedElement>
 </uml:Model>

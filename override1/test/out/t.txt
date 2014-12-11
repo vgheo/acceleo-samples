@@ -1,0 +1,4 @@
+class:  c1 - PASS
+itf: i1 - PASS
+enum (empty): PASS
+enum (non-empty): PASS
